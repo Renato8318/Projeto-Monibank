@@ -11,3 +11,13 @@
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+
+## Funcionalidades
+
+- Validação de campos obrigatórios
+- Formatos corretos para CPF, e-mail e outros campos
+- Regras para criação de senhas seguras
+- Mensagens de erro claras e específicas
+- Prevenção de cadastros inválidos
+- **Função especial:** Integração de reconhecimento facial, permitindo ao usuário tirar uma foto para concluir o cadastro. 📸
+
