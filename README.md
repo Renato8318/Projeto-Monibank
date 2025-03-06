@@ -21,3 +21,12 @@
 - Prevenção de cadastros inválidos
 - **Função especial:** Integração de reconhecimento facial, permitindo ao usuário tirar uma foto para concluir o cadastro. 📸
 
+## Como Executar
+
+1. Clone o repositório:
+2. Navegue até o diretório do projeto:
+3. Abra o arquivo `index.html` no seu navegador para visualizar o formulário.
+
+## Objetivo do Projeto
+
+Este projeto visa aprimorar as habilidades em manipulação do DOM e validações em JavaScript, proporcionando uma experiência prática com boas práticas de desenvolvimento front-end.
